@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"javaswingcomponent","l":"ImageBackground"},{"p":"javaswingcomponent","l":"ImageBackgroundPanel"},{"p":"javaswingcomponent","l":"ImageBackgroundPropertyEditorSupport"},{"p":"javaswingcomponent","l":"JPanelBackground"},{"p":"javaswingcomponent","l":"JPanelBackgroundBeanInfo"}];updateSearchResults();
